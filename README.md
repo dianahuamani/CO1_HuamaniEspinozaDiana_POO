@@ -66,7 +66,7 @@ Crea una nueva conexión en MySQL Workbench con estos datos:
 | Usuario | Contraseña |
 |---------|-----------|
 | admin   | admin123   |
-| oscar   | oscar123   |
+| diana   | diana123   |
 
 ---
 
