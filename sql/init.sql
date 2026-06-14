@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS productos (
 -- Datos de prueba: usuarios
 INSERT INTO usuarios (usuario, contrasena, nombre_completo) VALUES
 ('admin', 'admin123', 'Administrador ValleTech'),
-('diana', 'dianar123', 'diana Valle');
+('diana', 'diana123', 'diana Valle');
 
 -- Datos de prueba: categorías
 INSERT INTO categorias (nombre) VALUES
